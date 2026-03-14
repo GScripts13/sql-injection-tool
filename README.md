@@ -4,7 +4,7 @@
 ## Instalación rápida
 
 ```bash
-git clone https://github.com/tu-usuario/sql-injection-tool.git
+git clone https://github.com/GScripts13/sql-injection-tool.git
 cd sql-injection-tool
 python install.py
 python sql_injector.py

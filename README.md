@@ -1,4 +1,4 @@
-# SQL-INJECTION-TOOL-
+
 # SQL Injection Testing Tool
 
 ## Instalación rápida
